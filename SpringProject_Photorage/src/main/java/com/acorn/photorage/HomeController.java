@@ -19,4 +19,9 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping("/gallery/list")
+	public String list() {
+		return "gallery/list";
+	}
+	
 }
