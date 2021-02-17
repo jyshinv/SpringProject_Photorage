@@ -9,5 +9,8 @@
 </head>
 <body>
 	<li>hihi</li>
+	
+	
+	<li><a href="gallery/list.do">카페 글쓰러 가기</a></li>
 </body>
 </html>
