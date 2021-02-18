@@ -11,6 +11,6 @@
 	<li>hello</li>
 	
 
-	<li><a href="gallery/list.do">카페 list로 가기</a></li>
+	<li><a href="gallery/list.do">카페 list로 가기22222</a></li>
 </body>
 </html>
