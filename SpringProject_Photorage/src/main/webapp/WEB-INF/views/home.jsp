@@ -8,9 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<li>hihi</li>
+	<li>hihihi</li>
 	
 	
-	<li><a href="gallery/list.do">카페 글쓰러 가기</a></li>
+	<li><a href="gallery/list.do">카페 글쓰러 가기hihi</a></li>
 </body>
 </html>
