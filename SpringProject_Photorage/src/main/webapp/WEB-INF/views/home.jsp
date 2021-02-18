@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<li>없애지 마세여</li>
-	<li><a href="home.do">홈으로 가기   </a></li>
+	<li><p>없애지 마세여333<p></li>
+	<li><a href="home.do">홈으로 가기333   </a></li>
 </body>
 </html>
